@@ -95,19 +95,19 @@ Images are in `public/images`.
 
 1. Drag & Drop
 
-![Drag and drop flow](/images/drag_drop.png)
+![Drag and drop flow](public/images/drag_drop.png)
 
 2. Template 1
 
-![Template 1](/images/template.png)
+![Template 1](public/images/template.png)
 
 3. Template 2
 
-![Template 2](/images/template2.png)
+![Template 2](public/images/template2.png)
 
 4. Template 3
 
-![Template 3](/images/template3.png)
+![Template 3](public/images/template3.png)
 
 ### Step-by-Step Workflow
 
